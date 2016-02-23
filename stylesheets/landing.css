@@ -12,7 +12,9 @@ NAVIGATION
 /**********************************
 HEADER
 ***********************************/
-
+h3{
+    color:#5EA2B1;
+}
 .portrait{
     max-width:auto;
     max-height:250px;
